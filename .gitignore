@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+/obj/
+/bin/
+/alire/
+/config/
+.envrc

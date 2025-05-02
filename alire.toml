@@ -1,0 +1,10 @@
+name = "agario"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Amir Khaki"]
+maintainers = ["Amir Khaki <amirkhaki995@gmail.com>"]
+maintainers-logins = ["amirkhaki"]
+licenses = "MPL-2.0"
+website = ""
+tags = []
